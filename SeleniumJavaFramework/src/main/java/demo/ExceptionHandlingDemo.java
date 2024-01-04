@@ -15,7 +15,7 @@ public class ExceptionHandlingDemo {
 
 	public static void demo() throws Exception {
 			System.out.println("Hello World...!");
-			throw new ArithmeticException("not valid operation");
+			throw new ArithmeticException("not valid operation for arithmetic");
 			//int i = 1/0;
 			//System.out.println("Completed");
 		
